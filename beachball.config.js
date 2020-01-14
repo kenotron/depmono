@@ -1,3 +1,4 @@
 module.exports = {
-  bumpDeps: true
+  bumpDeps: true,
+  groups: [{ include: "packages/x*", name: "xgroup", exclude: ["packages/xc"] }]
 };
