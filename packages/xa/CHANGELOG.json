@@ -2,6 +2,20 @@
   "name": "xa",
   "entries": [
     {
+      "date": "Wed, 15 Jan 2020 04:57:13 GMT",
+      "tag": "xa_v1.1.1",
+      "version": "1.1.1",
+      "comments": {
+        "patch": [
+          {
+            "comment": "dood",
+            "author": "kchau@microsoft.com",
+            "commit": "27c437ca4f6e4c20f4d57d8d11b43af7706e6bfe"
+          }
+        ]
+      }
+    },
+    {
       "date": "Wed, 15 Jan 2020 04:22:48 GMT",
       "tag": "xa_v1.1.0",
       "version": "1.1.0",
