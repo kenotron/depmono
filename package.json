@@ -19,6 +19,7 @@
     "test": "lerna run test --stream",
     "change": "beachball change",
     "bump": "beachball bump",
+    "bb": "beachball",
     "gen": "plop"
   }
 }
