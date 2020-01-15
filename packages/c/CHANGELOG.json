@@ -1,0 +1,19 @@
+{
+  "name": "c",
+  "entries": [
+    {
+      "date": "Wed, 15 Jan 2020 04:10:25 GMT",
+      "tag": "c_v1.1.0",
+      "version": "1.1.0",
+      "comments": {
+        "minor": [
+          {
+            "comment": "adding some changes",
+            "author": "kchau@microsoft.com",
+            "commit": "d93c5f7398780f74036e0f9d1312c72b7c80446e"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "name": "xa",
+  "entries": [
+    {
+      "date": "Wed, 15 Jan 2020 04:10:25 GMT",
+      "tag": "xa_v1.1.0",
+      "version": "1.1.0",
+      "comments": {
+        "patch": [
+          {
+            "comment": "adding group change",
+            "author": "kchau@microsoft.com",
+            "commit": "83955f756ff81666e8439d6d213d588624042073"
+          }
+        ]
+      }
+    }
+  ]
+}
